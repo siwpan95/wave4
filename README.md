@@ -1,3 +1,8 @@
+> 📦 **已归档（Archived — 仅作参考）**
+> 本仓库已收入归档仓 **media-prototypes**（代码与完整 git 历史一并迁入，原仓冻结不再开发）。
+> 历史分支见归档仓的 `archive/wave4` 分支；活跃维护请前往 **media-prototypes**。
+> _This repo is archived into media-prototypes; development continues there. Do not commit here._
+
 # wave4 — 布朗噪声 / 分数阶布朗运动生成与分析工具包
 
 `wave4` 是一个零重依赖（仅 `numpy` / `matplotlib` / `scipy`）的 Python 包，用于生成**布朗噪声**与**分数阶布朗运动（fBm）**，并提供 Hurst 指数估计、功率谱密度（PSD）分析与可视化能力。
